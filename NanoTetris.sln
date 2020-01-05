@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "NanoTetris", "NanoTetris\NanoTetris.nfproj", "{1F412635-50E6-428D-A61F-4804CDF74683}"
+EndProject
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "TetrisEngine", "TetrisEngine\TetrisEngine.nfproj", "{805A473D-91EB-41EE-836C-07DCDF276C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F412635-50E6-428D-A61F-4804CDF74683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F412635-50E6-428D-A61F-4804CDF74683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F412635-50E6-428D-A61F-4804CDF74683}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1F412635-50E6-428D-A61F-4804CDF74683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F412635-50E6-428D-A61F-4804CDF74683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F412635-50E6-428D-A61F-4804CDF74683}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{805A473D-91EB-41EE-836C-07DCDF276C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805A473D-91EB-41EE-836C-07DCDF276C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805A473D-91EB-41EE-836C-07DCDF276C07}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{805A473D-91EB-41EE-836C-07DCDF276C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805A473D-91EB-41EE-836C-07DCDF276C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805A473D-91EB-41EE-836C-07DCDF276C07}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA04C58F-111D-483E-99C4-8B03019267E9}
+	EndGlobalSection
+EndGlobal
